@@ -1,7 +1,7 @@
-# 健康信息管理系统(数据库加VX获取☟)
+# 校园健康管理系统(数据库加VX获取☟)
 
 #### 介绍
-健康信息管理（springboot+vue）
+校园健康管理系统（springboot+vue）
 有BUG可留言加微
 
 #### 软件架构
@@ -32,9 +32,15 @@ SpringBoot + Mybatis-plus + Vue + Mysql
 
 #### 功能概览图
 ![输入图片说明](photo/%E5%8A%9F%E8%83%BD%E6%B5%81%E7%A8%8B%E5%9B%BE.gif)
-### 演示截图
+### 部分功能演示
 #### 登录注册
 ![输入图片说明](photo/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C.gif)
+
+#### 客户端功能
+![输入图片说明](photo/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8A%9F%E8%83%BD1.gif)
+
+#### 管理员功能
+![输入图片说明](photo/%E7%AE%A1%E7%90%86%E7%AB%AF%E5%8A%9F%E8%83%BD1.gif)
 
 ### 环境需求(可免费提供)
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js
